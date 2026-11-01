@@ -17,3 +17,6 @@ Kaggle - Gaming Laptop Dataset (Uncleaned). Proje kapsamında ham veriler üzeri
 
 ## İlk Yöntem
 Python (Pandas, Scikit-learn) ile Keşifsel Veri Analizi (EDA) ve Çoklu Doğrusal Regresyon (Multiple Linear Regression).
+
+## UML Diyagramları
+Projenin tasarım aşamasına ait Use Case, Activity ve Class diyagramları depo kök dizinine PNG formatında eklenmiştir. Bu diyagramlar veri işleme sürecini ve regresyon modelinin kavramsal yapısını temsil etmektedir.
